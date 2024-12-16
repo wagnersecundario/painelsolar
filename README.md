@@ -1,5 +1,5 @@
 # painelsolar
-"""
+
 Projeto: Sistema de Gestão de eneria Solar
 Disciplina: Seminário Integrador - Talento Tech
 Desenvolvido por: Wagner Azevedo
@@ -16,4 +16,3 @@ Descrição:
 Objetivo:
     Este sistema foi desenvolvido para aplicar conceitos de Programação Orientada a Objetos (POO)
     e Engenharia de Software em um contexto prático, alinhado aos objetivos do projeto Talento Tech.
-"""
